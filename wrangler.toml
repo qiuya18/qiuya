@@ -10,3 +10,4 @@ GITHUB_REPO = "qiuya"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://qiuya.pages.dev/api/auth"
 NEXT_PUBLIC_API_URL="https://qiuya.pages.dev"
+
