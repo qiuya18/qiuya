@@ -36,6 +36,14 @@
           "description": "免费高清日本 AV 在线看，无需下载，高速播放没有延迟，超过十万部影片，每日更新",
           "icon": "/assets/favicon_1760849984542.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1760851035966_e6bcy8f4l",
+          "title": "24av",
+          "href": "https://24av.net/en/dm9/uncensored",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=24av.net",
+          "enabled": true
         }
       ],
       "subCategories": [],
