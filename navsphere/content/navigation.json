@@ -28,6 +28,14 @@
           "description": "最好的日本成人影片网站，永久免费，高速流畅，无卡顿，超过25万部影片，每日更新，播放视频时无广告。",
           "icon": "/assets/favicon_1768147479038.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768147647276_s9k7nsy4j",
+          "title": "7mmtv.sx - Watch JAV Online",
+          "href": "https://7mmtv.sx",
+          "description": "7mmtv,日本AV,無碼AV,自拍影片,H漫畫貼圖,線上A片直播,免費A片,A片中文字幕",
+          "icon": "/assets/favicon_1768147589771.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
