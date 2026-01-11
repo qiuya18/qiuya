@@ -20,6 +20,14 @@
           "description": "在 Javtiful 上免费观看数千部未经审查的高清日本成人影片。",
           "icon": "/assets/favicon_1768147295093.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768147519694_j3ff8ykc4",
+          "title": "Javxx",
+          "href": "https://javxx.com/en",
+          "description": "最好的日本成人影片网站，永久免费，高速流畅，无卡顿，超过25万部影片，每日更新，播放视频时无广告。",
+          "icon": "/assets/favicon_1768147479038.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
