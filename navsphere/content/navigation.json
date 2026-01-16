@@ -102,6 +102,14 @@
           "description": "",
           "icon": "/assets/favicon_1768574866482.svg",
           "enabled": true
+        },
+        {
+          "id": "1768575068692",
+          "title": "海角社区",
+          "href": "https://t.me/simishe",
+          "description": "海角社区 母子 父女 乱伦",
+          "icon": "/assets/favicon_1768575074139.svg",
+          "enabled": true
         }
       ],
       "subCategories": [],
