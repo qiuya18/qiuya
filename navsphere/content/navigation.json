@@ -118,6 +118,14 @@
           "description": "",
           "icon": "/assets/favicon_1768575136118.svg",
           "enabled": true
+        },
+        {
+          "id": "1768575185044",
+          "title": "资源分享",
+          "href": "https://t.me/ganhaoshi",
+          "description": "",
+          "icon": "/assets/favicon_1768575188948.svg",
+          "enabled": true
         }
       ],
       "subCategories": [],
