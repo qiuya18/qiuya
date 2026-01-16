@@ -126,6 +126,14 @@
           "description": "",
           "icon": "/assets/favicon_1768575188948.svg",
           "enabled": true
+        },
+        {
+          "id": "1768575223708",
+          "title": "抖音快手",
+          "href": "https://t.me/sifangjia",
+          "description": "",
+          "icon": "/assets/favicon_1768575227452.svg",
+          "enabled": true
         }
       ],
       "subCategories": [],
