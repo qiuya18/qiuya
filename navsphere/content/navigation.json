@@ -84,6 +84,14 @@
           "description": "",
           "icon": "/assets/favicon_1768527382396.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1768575611879_jdlwliavk",
+          "title": "7M视频",
+          "href": "https://jjef-mvw-qcti.mazy205cu.buzz/type/1/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=jjef-mvw-qcti.mazy205cu.buzz",
+          "enabled": true
         }
       ],
       "subCategories": [],
