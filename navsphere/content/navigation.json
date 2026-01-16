@@ -94,7 +94,16 @@
       "id": "9",
       "title": "电报群组",
       "icon": "Brain",
-      "items": [],
+      "items": [
+        {
+          "id": "1768574845763",
+          "title": "全网探花",
+          "href": "https://t.me/tanhuatv",
+          "description": "You can view and join @tanhuatv right away.",
+          "icon": "/assets/favicon_1768574866482.svg",
+          "enabled": true
+        }
+      ],
       "subCategories": [],
       "description": "",
       "enabled": true
