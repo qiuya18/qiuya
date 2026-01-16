@@ -134,6 +134,14 @@
           "description": "",
           "icon": "/assets/favicon_1768575227452.svg",
           "enabled": true
+        },
+        {
+          "id": "1768575338629",
+          "title": "探花直播",
+          "href": "https://t.me/papa91AV",
+          "description": "",
+          "icon": "/assets/favicon_1768575344240.svg",
+          "enabled": true
         }
       ],
       "subCategories": [],
