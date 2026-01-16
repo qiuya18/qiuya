@@ -110,6 +110,14 @@
           "description": "海角社区 母子 父女 乱伦",
           "icon": "/assets/favicon_1768575074139.svg",
           "enabled": true
+        },
+        {
+          "id": "1768575131077",
+          "title": "抖音走光",
+          "href": "https://t.me/cao280",
+          "description": "",
+          "icon": "/assets/favicon_1768575136118.svg",
+          "enabled": true
         }
       ],
       "subCategories": [],
