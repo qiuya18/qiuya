@@ -100,6 +100,14 @@
           "description": "",
           "icon": "/assets/favicon_1768575714051.ico",
           "enabled": true
+        },
+        {
+          "id": "1768576299579",
+          "title": "尼玛视频",
+          "href": "https://www.2299z.com/htms/list4/1.htm",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.2299z.com",
+          "enabled": true
         }
       ],
       "subCategories": [],
