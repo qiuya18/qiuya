@@ -132,6 +132,14 @@
           "description": "",
           "icon": "/assets/img_1768611522734.png",
           "enabled": true
+        },
+        {
+          "id": "1768611660657",
+          "title": "天美影院",
+          "href": "https://94mt.cc/index.php/vod/type/id/16.html",
+          "description": "欢迎来到天美影院，我们因为电影而相聚。",
+          "icon": "/assets/favicon_1768611665510.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
