@@ -180,6 +180,14 @@
           "description": "91porna提供免费看片,无需下载,每日更新千部高质量视频,全网更新最快种类最全的成人视频平台。",
           "icon": "/assets/favicon_1768612378465.ico",
           "enabled": true
+        },
+        {
+          "id": "1768612451930",
+          "title": "酷愛成人",
+          "href": "https://www.coolinet.net/category/%e7%9b%b4%e6%92%ad/",
+          "description": "",
+          "icon": "/assets/favicon_1768612457075.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
