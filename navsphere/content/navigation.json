@@ -156,6 +156,14 @@
           "description": "",
           "icon": "/assets/favicon_1768612061323.ico",
           "enabled": true
+        },
+        {
+          "id": "1768612153234",
+          "title": "視訊直播 ",
+          "href": "https://5278.cc/forum.php?mod=forumdisplay&fid=23&orderby=lastpost&typeid=1359&filter=typeid&orderby=lastpost&typeid=1359&page=1",
+          "description": "",
+          "icon": "/assets/favicon_1768612158496.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
