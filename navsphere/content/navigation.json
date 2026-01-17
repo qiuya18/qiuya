@@ -172,6 +172,14 @@
           "description": "提供國內外自拍偷拍外流影片,支援手機.平板.電腦觀看。",
           "icon": "/assets/favicon_1768612200627.png",
           "enabled": true
+        },
+        {
+          "id": "1768612371823",
+          "title": "91视频",
+          "href": "https://91porna.com",
+          "description": "91porna提供免费看片,无需下载,每日更新千部高质量视频,全网更新最快种类最全的成人视频平台。",
+          "icon": "/assets/favicon_1768612378465.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
