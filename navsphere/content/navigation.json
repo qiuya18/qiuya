@@ -140,6 +140,14 @@
           "description": "欢迎来到天美影院，我们因为电影而相聚。",
           "icon": "/assets/favicon_1768611665510.ico",
           "enabled": true
+        },
+        {
+          "id": "1768611802620",
+          "title": "网络摄像头",
+          "href": "https://mbcav.mom",
+          "description": "",
+          "icon": "/assets/img_1768611818632.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
