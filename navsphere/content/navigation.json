@@ -116,6 +116,14 @@
           "description": "在线观看高清日本成人影片",
           "icon": "/assets/img_1768611287730.png",
           "enabled": true
+        },
+        {
+          "id": "1768611424911",
+          "title": "avx12",
+          "href": "https://avx12.com/cn/fc2",
+          "description": "免费高清日本 AV 在线看，无需下载，高速播放没有延迟，超过十万部影片，每日更新。",
+          "icon": "/assets/favicon_1768611435786.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
