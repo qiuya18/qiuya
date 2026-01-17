@@ -164,6 +164,14 @@
           "description": "",
           "icon": "/assets/favicon_1768612158496.ico",
           "enabled": true
+        },
+        {
+          "id": "1768612195830",
+          "title": "我愛av論壇",
+          "href": "https://www.52av.one/forum-64-1.html",
+          "description": "提供國內外自拍偷拍外流影片,支援手機.平板.電腦觀看。",
+          "icon": "/assets/favicon_1768612200627.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
