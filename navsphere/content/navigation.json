@@ -188,6 +188,14 @@
           "description": "一个专注于成人内容的中文网站，主要聚合和分享各种色情视频、成人影片、自拍泄密、偷拍等资源。",
           "icon": "/assets/favicon_1768612457075.png",
           "enabled": true
+        },
+        {
+          "id": "1768973569052",
+          "title": "KanAV",
+          "href": "https://kanav.ad",
+          "description": "一个免费在线观看高清中文成人视频（AV）的网站，主要面向中文用户，提供无需下载、直接播放的服务。网站宣称高速播放、无延迟、每日更新，开播后无广告，支持手机、电脑、智能电视等多种设备。",
+          "icon": "/assets/favicon_1768973573402.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
