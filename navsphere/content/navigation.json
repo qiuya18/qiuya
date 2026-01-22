@@ -196,6 +196,14 @@
           "description": "一个免费在线观看高清中文成人视频（AV）的网站，主要面向中文用户，提供无需下载、直接播放的服务。网站宣称高速播放、无延迟、每日更新，开播后无广告，支持手机、电脑、智能电视等多种设备。",
           "icon": "/assets/favicon_1768973573402.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1769111121763_8m0imh43x",
+          "title": "TktuBe",
+          "href": "https://tktube.com/zh/categories/fc2/",
+          "description": "TKTube集合日本高清AV 、日本無修正、破壞版、國產等線上觀看，無需下載，體驗高速播放沒有延遲，本站超過十萬部影片，且每日更新，保持觀看者每日皆有新影片可以觀賞，影片開始播放後不會再有擾人廣告，支援任何裝置包括手機、家用電腦、智能平板及電視。",
+          "icon": "/assets/favicon_1769110979309.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
