@@ -204,6 +204,14 @@
           "description": "TKTube集合日本高清AV 、日本無修正、破壞版、國產等線上觀看，無需下載，體驗高速播放沒有延遲，本站超過十萬部影片，且每日更新，保持觀看者每日皆有新影片可以觀賞，影片開始播放後不會再有擾人廣告，支援任何裝置包括手機、家用電腦、智能平板及電視。",
           "icon": "/assets/favicon_1769110979309.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1769112170925_8l876ante",
+          "title": "Netflav",
+          "href": "https://netflav.com",
+          "description": "Netflav 集結琳瑯滿目的精彩日本成人影片，只有在這才找得到，全部精心製作。",
+          "icon": "/assets/favicon_1769112153009.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
