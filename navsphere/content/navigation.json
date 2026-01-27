@@ -54,19 +54,19 @@
           "enabled": true
         },
         {
-          "id": "site_1768575611879_jdlwliavk",
-          "title": "7M视频",
-          "href": "https://jjef-mvw-qcti.mazy205cu.buzz/type/1/",
-          "description": "主要提供免费在线观看国产成人视频。",
-          "icon": "https://qiuya-838.pages.dev/assets/favicon_1768147223259.png",
-          "enabled": true
-        },
-        {
           "id": "site_1768147989021_usmp1wopz",
           "title": "A片直播王",
           "href": "https://j-av.com/amateur/",
           "description": "一个免费在线日本成人视频（JAV）流媒体网站，主要提供高清日本AV的在线观看服务。网站以中文界面为主（部分英文混用），面向中文用户和亚洲成人内容爱好者。",
           "icon": "/assets/favicon_1768147974592.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1768575611879_jdlwliavk",
+          "title": "7M视频",
+          "href": "https://jjef-mvw-qcti.mazy205cu.buzz/type/1/",
+          "description": "主要提供免费在线观看国产成人视频。",
+          "icon": "https://qiuya-838.pages.dev/assets/favicon_1768147223259.png",
           "enabled": true
         },
         {
