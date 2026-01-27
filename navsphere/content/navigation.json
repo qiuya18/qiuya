@@ -46,6 +46,14 @@
           "enabled": true
         },
         {
+          "id": "1768611424911",
+          "title": "avx12",
+          "href": "https://avx12.com/cn/fc2",
+          "description": "专注于日本AV内容，提供海量视频的流媒体播放。网站宣称高速、无延迟、无播放中广告（但页面可能有弹窗/前贴广告），每日更新，资源覆盖有码、无码、泄露、业余投稿等。",
+          "icon": "/assets/favicon_1768611435786.png",
+          "enabled": true
+        },
+        {
           "id": "site_1768575611879_jdlwliavk",
           "title": "7M视频",
           "href": "https://jjef-mvw-qcti.mazy205cu.buzz/type/1/",
@@ -123,14 +131,6 @@
           "href": "https://www.2299z.com/htms/list4/1.htm",
           "description": "",
           "icon": "https://qiuya-838.pages.dev/assets/favicon_1768147223259.png",
-          "enabled": true
-        },
-        {
-          "id": "1768611424911",
-          "title": "avx12",
-          "href": "https://avx12.com/cn/fc2",
-          "description": "专注于日本AV内容，提供海量视频的流媒体播放。网站宣称高速、无延迟、无播放中广告（但页面可能有弹窗/前贴广告），每日更新，资源覆盖有码、无码、泄露、业余投稿等。",
-          "icon": "/assets/favicon_1768611435786.png",
           "enabled": true
         },
         {
